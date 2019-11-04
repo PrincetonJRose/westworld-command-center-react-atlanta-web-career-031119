@@ -16,7 +16,7 @@ logpanel {
 
 pre {
   height: 120px;
-  overflow-y: scroll;
+  overflow-y: auto;
   white-space: pre-wrap;
 }
 
